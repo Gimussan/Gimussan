@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gimussan
-- 👀 I’m interested in changing my career path  amd get int programming
+- 👀 I’m interested in changing my career path  and get into programming
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me Through Github
